@@ -70,7 +70,7 @@ A curated, developer-grade collection of architecture cheat sheets, protocol com
 
 ## 🛠️ Community & Interactive Study Resources
 - **Active Recall Drills**: [BenchCert Practice Hub](https://benchcert.app/practice)
-- **Certification Guides & Blueprints**: [BenchCert Cert Catalog](https://benchcert.app/catalog)
+- **Certification Guides & Blueprints**: [BenchCert Home](https://benchcert.app)
 - **Comparison Against Legacy Question Banks**: [BenchCert vs. Tutorials Dojo](https://benchcert.app/vs/tutorials-dojo) • [BenchCert vs. Whizlabs](https://benchcert.app/vs/whizlabs) • [BenchCert vs. MeasureUp](https://benchcert.app/vs/measureup)
 - **Instant 5-Question Free Trial**: [Try 5 Scenarios Free](https://benchcert.app/try)
 
